@@ -1,2 +1,2 @@
 # Web-Design
-![Web-Design](Web design.PNG "Web-Design")
+![Web-Design](Web design.png "Web-Design")
